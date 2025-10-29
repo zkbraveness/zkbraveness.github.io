@@ -1,3 +1,11 @@
+---
+permalink:/
+title:"About me"
+author_prpfile:true
+redirect_from:
+  - /about/
+  - /about.html
+---
 I'm a postgraduate student from [School of ComputerScience](https://www.upc.edu.cn/), [China University of Petroleum](https://www.upc.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, deep learning，and Face Edit.
 
 I am very fortunate to be advised by [Prof. Diqiong Jiang](https://computer.upc.edu.cn/_s104/_t1903/2025/0711/c20896a466072/page.psp)  from [School of Computer Science](https://cs.pku.edu.cn/), China University of Petroleum. 
