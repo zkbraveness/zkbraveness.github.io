@@ -1,5 +1,7 @@
 ---
-title:"About me"
+permalink: /
+title: "About me"
+excerrpt: "About me"
 author_prpfile:true
 redirect_from:
   - /about/
