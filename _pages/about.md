@@ -1,5 +1,4 @@
 ---
-permalink: /
 title:"About me"
 author_prpfile:true
 redirect_from:
