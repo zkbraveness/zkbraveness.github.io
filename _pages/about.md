@@ -2,7 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-author_prpfile:true
+author_prpfile: true
 redirect_from:
   - /about/
   - /about.html
